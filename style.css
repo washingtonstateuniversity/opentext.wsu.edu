@@ -1,0 +1,13 @@
+/*
+ Theme Name:     WSU Open Text Theme
+ Theme URI:      https://opentext.wsu.edu
+ Description:    A Pressbooks child theme for opentext.wsu.edu
+ Author:         WSU University Communications
+ Author URI:     https://web.wsu.edu
+ Template:       pressbooks-aldine
+ Version:        0.0.1
+*/
+
+body {
+    color: #fff;
+}
